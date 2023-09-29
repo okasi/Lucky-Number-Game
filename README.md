@@ -1,6 +1,8 @@
 # Lucky Number Game 🍀
 
-**Lucky Number Game** is an engaging Python game where users attempt to guess a lucky number from a given list. The game is available in both procedural and object-oriented versions. Players will provide their name and birthdate before beginning the game, ensuring that they are of age to play.
+**Lucky Number Game** is an engaging Python game where users attempt to guess a lucky number from a given list.  
+The game is available in both procedural and object-oriented versions.  
+Players will provide their name and birthdate before beginning the game, ensuring that they are of age to play.
 
 
 ## File Descriptions
